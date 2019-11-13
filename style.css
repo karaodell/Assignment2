@@ -1,0 +1,59 @@
+body {
+
+}
+
+.block-one {
+    
+}
+
+#h1 {
+    text-align: right;
+    padding: 50px;
+    font-size: 150px;
+    font-family: 'Fredericka the Great', cursive;
+    color: darksalmon;
+        
+}
+
+.block-one p {
+    text-align: right;
+    font-size: 70px;
+    font-family: 'Crimson Text', serif;
+    background-color: darksalmon; 
+    padding: 50px;
+    
+}
+
+#h2 {
+    text-align: right;
+    padding: 150px;
+    font-family: 'Petit Formal Script', cursive;
+    font-size: 150px;
+    color: rgba(93,158,175,5.00);
+}
+
+
+.block-two p {
+    text-align: right;
+    font-family: 'Great Vibes', cursive;
+    font-size: 70px;  
+    background-image: linear-gradient(to bottom right, rgba(93,158,175,5.00), rgba(158,210,219,1.00), rgba(93,158,175,5.00));
+    padding: 50px;
+    
+}
+#h3 {
+    text-align: right;
+    padding: 50px;
+    font-family: 'Knewave', cursive;
+    font-size: 150px;
+    color: darkgrey;
+}
+
+
+.block-three p {
+    text-align: right;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 70px;
+    background-color:darkgray;  
+    padding: 50px;    
+}
